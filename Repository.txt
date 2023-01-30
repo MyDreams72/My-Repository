@@ -1,0 +1,4 @@
+File dari Repository
+- Konsisten untuk membuat konten 2x seminggu
+- Membuat Platfrom untuk menampung video youtube
+- Membuat form diskusi
