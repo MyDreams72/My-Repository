@@ -1,4 +1,6 @@
 MEMBUAT RENCANA VIDEO
 - Membuat JavaScript
+ * ES6
+ * Framwork JS
 - Membuat PHP
 - Membuat Vlogs
