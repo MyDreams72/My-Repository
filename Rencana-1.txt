@@ -2,8 +2,10 @@ MEMBUAT RENCANA VIDEO
 - Membuat JavaScript
  * ES6
  * Framwork JS
-   ^ angular
-   ^ react
+  ^ vue
+  ^ react
+ - Membuat struktur data dasar
 - Membuat PHP
  * Laravel
 - Membuat Vlogs
+- Membuat Python
